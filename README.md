@@ -103,11 +103,8 @@ Here’s what the calculator looks like:
 
 ---
 
-## About Me
 
-Hey! I’m @xiabytes (or xiacodes if you’ve seen me online). This project is one of many I’ve created to explore my love for web development and design. If you like it, feel free to fork it, star it, or share it with others!
 
----
 
 ## Contributions
 
